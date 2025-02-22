@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<th:html
+        lang="en"
+        th:replace="~{base :: parent(~{::#content},~{::title},~{::script})}"
+        xmlns:th="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>About Page</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {},
+        },
+        darkMode: 'class',
+      };
+    </script>
+  </head>
+  <body class="bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-200">
+  <div id="content" class="w-full h-screen flex flex-col justify-start items-center p-6 bg-white dark:bg-gray-800 shadow-lg rounded-lg">
+    <h1 class="text-5xl font-bold text-center text-blue-600 dark:text-blue-400 mb-4 mt-10">About Us</h1>
+    <p class="text-lg text-gray-700 dark:text-gray-300 leading-relaxed max-w-4xl text-center">
+      Welcome to the <span class="font-semibold">Smart Contact Manager</span>, your ultimate tool
+      for efficiently managing and organizing your contacts.
+      This web application is designed to help you keep track of your contacts,
+      streamline communication, and stay organized in today’s fast-paced world.
+    </p>
+    <br>
+    <p class="text-lg text-gray-700 dark:text-gray-300 leading-relaxed max-w-4xl text-center">
+      Our mission is to provide you with a seamless contact management
+      experience that simplifies the way you connect with people.
+      With <span class="font-semibold">Smart Contact Manager</span>, you can spend less time searching
+      for contact details and more time building meaningful relationships.
+    </p>
+    <br>
+    <div class="mt-12 max-w-4xl">
+      <h1 class="text-5xl font-bold text-center text-blue-600 dark:text-blue-400 mb-4 mt-10">Key Features</h1>
+      <p class="text-lg text-gray-700 dark:text-gray-300 leading-relaxed max-w-4xl text-center">
+        <span class="font-semibold">Contact Organization</span>: Store, categorize, and manage your contacts in a structured and intuitive way.
+      </p>
+      <p class="text-lg text-gray-700 dark:text-gray-300 leading-relaxed max-w-4xl text-center">
+        <span class="font-semibold">Efficient Search</span>: Quickly find the contacts you need using powerful search and filtering options.
+      </p>
+      <p class="text-lg text-gray-700 dark:text-gray-300 leading-relaxed max-w-4xl text-center">
+        <span class="font-semibold">User-Friendly Interface</span>: Our user-centric design ensures an easy and enjoyable experience for all users.
+      </p>
+      <p class="text-lg text-gray-700 dark:text-gray-300 leading-relaxed max-w-4xl text-center">
+        <span class="font-semibold">Image Upload</span>: Attach profile images to your contacts for easy visual identification.
+      </p>
+      <p class="text-lg text-gray-700 dark:text-gray-300 leading-relaxed max-w-4xl text-center">
+        <span class="font-semibold">Secure Data</span>: Your contact information is stored securely to ensure your privacy and peace of mind.
+      </p>
+
+    </div>
+  </div>
+
+  <script>
+    console.log("about page");
+  </script>
+  <script>
+    console.log("second about page script");
+  </script>
+  </body>
+</th:html>
