@@ -157,29 +157,30 @@ POST  /do-register
 
 
 ## Snapshots
-![Screenshot Description](snapshot/Screenshot 2025-02-22 173705.png)
+![Screenshot Description](https://res.cloudinary.com/dwhij00z7/image/upload/v1740249962/scmgithub/run_nqbkdx.png)
 
-![Screenshot Description](snapshot/Screenshot 2025-02-22 173001.png)
+![Screenshot Description](https://res.cloudinary.com/dwhij00z7/image/upload/v1740249959/scmgithub/home1_j0eps1.png)
 
-![Screenshot Description](snapshot/Screenshot 2025-02-22 173705.png)
+![Screenshot Description](https://res.cloudinary.com/dwhij00z7/image/upload/v1740249959/scmgithub/home2_ryqikz.png)
 
-![Screenshot Description](snapshot/Screenshot 2025-02-22 173141.png)
+![Screenshot Description](https://res.cloudinary.com/dwhij00z7/image/upload/v1740249960/scmgithub/registeer_whxafs.png)
 
-![Screenshot Description](snapshot/Screenshot 2025-02-22 172913.png)
+![Screenshot Description](https://res.cloudinary.com/dwhij00z7/image/upload/v1740249961/scmgithub/Verified-01_njquhc.png)
 
-![Screenshot Description](snapshot/Verified-01.png)
+![Screenshot Description](https://res.cloudinary.com/dwhij00z7/image/upload/v1740249959/scmgithub/login_f233sw.png)
 
-![Screenshot Description](snapshot/Screenshot 2025-02-22 172828.png)
 
-![Screenshot Description](snapshot/Screenshot 2025-02-22 171108.png)
 
-![Screenshot Description](snapshot/Screenshot 2025-02-22 171413.png)
 
-![Screenshot Description](snapshot/Screenshot 2025-02-22 172403.png)
+![Screenshot Description](https://res.cloudinary.com/dwhij00z7/image/upload/v1740249960/scmgithub/profile_td08uo.png)
 
-![Screenshot Description](snapshot/Screenshot 2025-02-22 172451.png)
+![Screenshot Description](https://res.cloudinary.com/dwhij00z7/image/upload/v1740249959/scmgithub/addContact_szx63n.png)
 
-![Screenshot Description](snapshot/Screenshot 2025-02-22 172600.png)
+![Screenshot Description](https://res.cloudinary.com/dwhij00z7/image/upload/v1740249959/scmgithub/contact_tzmj6q.png))
 
-![Screenshot Description](snapshot/Screenshot 2025-02-22 172650.png)
+![Screenshot Description](https://res.cloudinary.com/dwhij00z7/image/upload/v1740249960/scmgithub/updateC_fsugdt.png))
+
+![Screenshot Description](https://res.cloudinary.com/dwhij00z7/image/upload/v1740249959/scmgithub/deleteContact_g7sulv.png)
+
+
 
